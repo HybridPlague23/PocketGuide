@@ -1,0 +1,8 @@
+main: me.HybridPlague.PocketGuide.Main
+name: PocketGuide
+author: HybridPlague
+version: 1.0
+api-version: 1.13
+
+commands:
+  PocketGuide:
